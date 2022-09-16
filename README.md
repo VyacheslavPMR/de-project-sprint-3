@@ -4,11 +4,11 @@
 Репозиторий предназначен для сдачи проекта 3-го спринта
 
 ### Как работать с репозиторием
-1. В вашем GitHub-аккаунте автоматически создастся репозиторий `de-project-3` после того, как вы привяжете свой GitHub-аккаунт на Платформе.
+1. В вашем GitHub-аккаунте автоматически создастся репозиторий `de-project-sprint-3` после того, как вы привяжете свой GitHub-аккаунт на Платформе.
 2. Скопируйте репозиторий на свой локальный компьютер, в качестве пароля укажите ваш `Access Token` (получить нужно на странице [Personal Access Tokens](https://github.com/settings/tokens)):
-	* `git clone https://github.com/{{ username }}/de-project-3.git`
+	* `git clone https://github.com/{{ username }}/de-project-sprint-3.git`
 3. Перейдите в директорию с проектом: 
-	* `cd de-project-3`
+	* `cd de-project-sprint-3`
 4. Выполните проект и сохраните получившийся код в локальном репозитории:
 	* `git add .`
 	* `git commit -m 'my best commit'`
